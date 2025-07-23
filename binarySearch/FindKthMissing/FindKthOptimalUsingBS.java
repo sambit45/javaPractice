@@ -1,4 +1,4 @@
-package binarySearch.FindKthMissing.BruteForce;
+package binarySearch.FindKthMissing;
 
 
 //T.C - O(log n) S.C - O(1)

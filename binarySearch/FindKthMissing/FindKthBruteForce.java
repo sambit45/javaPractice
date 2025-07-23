@@ -1,4 +1,4 @@
-package binarySearch.FindKthMissing.BruteForce;
+package binarySearch.FindKthMissing;
 
 import java.util.ArrayList;
 
